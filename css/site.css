@@ -45,3 +45,31 @@ footer .social > a:hover {
       bottom: 0;
       width: 100%;
   }
+
+  .bsicon {
+
+    color: purple;
+  }
+
+  .jsicon{
+    color: rgb(226,211,4);
+  }
+
+  .html5icon {
+    color: orangered;
+  }
+
+  .cssicon{
+    color:rbg(22,83,214);
+  }
+
+  .checklist > li i {
+    color: var(--secondary);
+  }
+
+  code[class*="language-"],
+        pre[class*="language-"] {
+            white-space: pre-wrap;
+            word-break: break-all;
+            word-wrap: break-word;
+        }
